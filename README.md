@@ -2,18 +2,23 @@
 
 
 
-<p align="center"><img width="1100" height="1100" alt="peribanner" src="https://github.com/user-attachments/assets/a75c7065-4880-4370-a2b6-4249c370d818" />
 
-$$ \color{#47af65}{\text{Int with extreme caution and care}} $$
 
-<p align="center"><img width="250" height="250" alt="peri3" src="https://github.com/user-attachments/assets/90ce2cef-8225-4a84-8319-1ccd73023009" />
 
-$$ \color{#52aa87}{\text{do not c+h unless i do or we're friends}} $$
 
-<p align="center"><img width="250" height="250" alt="peri2" src="https://github.com/user-attachments/assets/f0bb86c9-8544-4cc7-b3af-f363c26ef11d" />
 
-$$ \color{#78afb1}{\text{most likely upset or little}} $$ 
+$${\color{#23121d}"The \space \color{#25141e}difference \space \color{#271620}between \space \color{#42a1a24}me \space \color{#2d1c26}and \space \color{#2f1e28}a \space \color{#2f1e28}dog" }$$
 
-<p align="center"><img width="250" height="250" alt="peri1" src="https://github.com/user-attachments/assets/e3b70515-399f-4d69-b457-8d113441233a" />
+$${\color{#23121d}"Is \space \color{#25141e}that \space \color{271620}i \space \color{#2a1a24}am \space \color{#2d1c26}taller" }$$
 
-$$ \color{#77aff1}{\text{thanks you}} $$
+
+
+
+<p align="center"><img width="2048" height="2048" alt="werespiderbanner2" src="https://github.com/user-attachments/assets/a65768ac-14d9-4f59-b6db-1c3e5a12b006" />
+
+
+$${\color{#23121d}"Think \space \color{#25141e}about \space \color{#271620}it" }$$
+
+$${\color{#23121d}"Just \space \color{#25141e}think \space \color{#271620}about \space \color{#2a1a24}it" }$$
+
+  

@@ -7,18 +7,18 @@
 
 
 
-$${\color{#23121d}"The \space \color{#25141e}difference \space \color{#271620}between \space \color{#42a1a24}me \space \color{#2d1c26}and \space \color{#2f1e28}a \space \color{#2f1e28}dog" }$$
+$${\color{#370c0a}"The \space \color{#4d0b0c}difference \space \color{#69130f}between \space \color{#63180b}me \space \color{#6b2405}and \space \color{#7d3619}a \space \color{#9b4c20}dog" }$$
 
-$${\color{#23121d}"Is \space \color{#25141e}that \space \color{271620}i \space \color{#2a1a24}am \space \color{#2d1c26}taller" }$$
-
-
+$${\color{#370c0a}"Is \space \color{#4d0b0c}that \space \color{69130f}i \space \color{#63180b}am \space \color{#6b2405}taller" }$$
 
 
-<p align="center"><img width="2048" height="2048" alt="werespiderbanner2" src="https://github.com/user-attachments/assets/a65768ac-14d9-4f59-b6db-1c3e5a12b006" />
 
 
-$${\color{#23121d}"Think \space \color{#25141e}about \space \color{#271620}it" }$$
+<p align="center"><img width="2048" height="2048" alt="werespiderbanner" src="https://github.com/user-attachments/assets/8bf17f24-2ed2-4399-a8e2-e1665a8c3c7f" />
 
-$${\color{#23121d}"Just \space \color{#25141e}think \space \color{#271620}about \space \color{#2a1a24}it" }$$
+
+$${\color{#370c0a}"Think \space \color{#4d0b0c}about \space \color{#69130f}it" }$$
+
+$${\color{#370c0a}"Just \space \color{#4d0b0c}think \space \color{#69130f}about \space \color{#63180b}it" }$$
 
   
